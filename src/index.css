@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font-family: 'Arial', 'Helvetica Neue', 'Segoe UI', 'Roboto', 'Open Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Courier New', 'Lucida Console', Monaco, Consolas, monospace;
+}
